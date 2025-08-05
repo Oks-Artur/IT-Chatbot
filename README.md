@@ -41,3 +41,8 @@ Dies ist mein **drittes Chatbot-Projekt**:
 - **Python 3**
 - **HTML / CSS**
 
+## 🔍 Feedback
+Das Projekt ist open-source – ich freue mich über Code-Reviews oder Ideen
+
+# Artur Oks
+ **Bewerber** für einen Ausbildungsplatz bei der **BMW Group**
