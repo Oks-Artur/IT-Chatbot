@@ -21,6 +21,12 @@ Alle Fragen und Antworten wurden manuell definiert – es handelt sich also nich
 - Eingabefeld für Nutzer:innen
 - Sofortige Antwortausgabe durch den Chatbot
 
+  ## 🔍 Feedback
+Das Projekt ist open-source – ich freue mich über Code-Reviews oder Ideen
+
+# Artur Oks
+ **Bewerber** für einen Ausbildungsplatz bei der **BMW Group**
+
 ## 🧠 Hintergrund
 
 Mein Ziel mit diesem Projekt war es, ein funktionierendes Web-Interface für einen Chatbot zu bauen, der einfache Fragen erkennt.  
