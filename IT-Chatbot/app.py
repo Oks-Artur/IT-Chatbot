@@ -9,7 +9,7 @@ def get_response(user_input):
     if "hallo" in user_input:
         return "Hallo! Wie kann ich dir helfen?"
 
-    elif "warum wäre ich" in user_input and ("der ideale kandidat" in user_input or "für diesen ausbildungsplatz" in user_input):
+    elif "warum bin ich" in user_input and ("der ideale kandidat" in user_input or "für diesen ausbildungsplatz" in user_input):
         return ("BMW ist ein innovatives Unternehmen mit Fokus auf IT und Digitalisierung. "
                 "Du wärst der passende Kandidat für diese Stelle, da du sehr lernbereit bist "
                 "und zusammen mit der BMW Group als idealen Arbeitgeber wachsen möchtest!")
@@ -33,3 +33,4 @@ def ask():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
