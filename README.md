@@ -34,9 +34,3 @@ Dies ist mein **drittes Chatbot-Projekt**:
 - **HTML / CSS**
 - **JavaScript (optional, je nach Funktionalität)**
 
-## 🚀 Installation und Ausführung
-
-1. Repository klonen oder herunterladen:
-   ```bash
-   git clone <repository-url>
-   cd IT-Chatbot
