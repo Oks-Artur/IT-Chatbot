@@ -34,6 +34,7 @@ Dies ist mein **drittes Chatbot-Projekt**:
 ## 🛠️ Verwendete Technologien
 
 - **Python 3**
+- **Flask**
 - **HTML / CSS**
 
 ## 🔍 Feedback
