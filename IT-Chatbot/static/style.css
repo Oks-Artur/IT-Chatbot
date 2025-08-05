@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    text-align: center;
+}
+
+#chatbox {
+    width: 50%;
+    margin: 20px auto;
+    background: white;
+    padding: 10px;
+    border: 1px solid #ccc;
+    min-height: 200px;
+    border-radius: 5px;
+}
+
+input {
+    width: 40%;
+    padding: 8px;
+}
+
+button {
+    padding: 8px 15px;
+    background: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
