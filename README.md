@@ -1,4 +1,4 @@
-# IT-Chatbot 🤖
+# WEB-Chatbot 🤖
 
 Ein einfacher Web-Chatbot, der grundlegende Fragen automatisiert beantwortet.  
 Dies ist mein drittes Chatbot-Projekt – mit einem besonderen Fokus auf ein ansprechenderes visuelles Design im Vergleich zu den vorherigen Versionen.
